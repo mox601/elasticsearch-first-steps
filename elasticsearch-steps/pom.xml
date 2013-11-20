@@ -9,6 +9,9 @@
     <packaging>jar</packaging>
 
     <name>elasticsearch-steps</name>
+
+    <description>First steps</description>
+
     <url>http://maven.apache.org</url>
 
     <properties>
